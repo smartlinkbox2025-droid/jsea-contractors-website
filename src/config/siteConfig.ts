@@ -8,7 +8,7 @@ export const siteConfig = {
   domain: "https://www.jseacontractors.com",
   email: "info@jseacontractors.com",
   phones: ["+966 54 456 6940", "+966 56 099 3436"],
-  whatsappNumber: "966544566940",
+  whatsappNumber: "966560993436",
   addressEn: "6th Floor, Rayhana Al Jazeera, 8601, Al Faisaliah District, Jeddah 23442, Saudi Arabia.",
   addressAr: "الطابق السادس، ريحانة الجزيرة، 8601، حي الفيصلية، جدة 23442، المملكة العربية السعودية.",
   mapsUrl: "https://www.google.com/maps/search/?api=1&query=Rayhana+Al+Jazeera+Al+Faisaliah+Jeddah",
